@@ -17,7 +17,7 @@ How to Use:
 ---
  Requirements :
 
-- Python 3.x  
+- Python  
 - Required libraries:  
   - numpy  
   - pandas  
